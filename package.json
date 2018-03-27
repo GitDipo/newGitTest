@@ -1,0 +1,19 @@
+{
+  "name": "mynewapp",
+  "version": "1.0.0",
+  "description": "simple test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitDipo/newGitTest.git"
+  },
+  "author": "Dipo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitDipo/newGitTest/issues"
+  },
+  "homepage": "https://github.com/GitDipo/newGitTest#readme"
+}
